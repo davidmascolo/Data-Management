@@ -15,3 +15,5 @@ The dataset is available at the following [link](https://www.kaggle.com/datasets
 **Query_ordered**: optimized query code. 
 
 **Adding_Keys**: adding constraints code.
+
+> NoSQL Folder
