@@ -4,7 +4,7 @@ The dataset is available at the following [link](https://www.kaggle.com/datasets
 
 **Creating_Database_v1**: code for creating the database without entering constraints and foreign keys.
 
-**Creating_Database_02**: code for creating the database with entering constraints and foreign keys. (optimized version)
+**Creating_Database_v2**: code for creating the database with entering constraints and foreign keys. (optimized version)
 
 **Query optimization**: code for to optimize the first version of the database, by adding keys and constraints.
 
@@ -12,4 +12,4 @@ The dataset is available at the following [link](https://www.kaggle.com/datasets
 
 **Query_ordered**: optimized query code. 
 
-**Adding_Keys**: 
+**Adding_Keys**: adding constraints code.
